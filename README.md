@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/giansl/RetoNotFound/main/src/assets/Scarecrow.png)
+![screenshot](https://github.com/giansl/RetoNotFound/blob/main/src/assets/demo.jpg?raw=true)
 
 ### Built With
 
